@@ -1,0 +1,21 @@
+C:\Users\Serap\Desktop\nesne\proje\TasarimPrensipOdev1\TasarimPrensipOdev1\bin\Debug\TasarimPrensipOdev1.exe.config
+C:\Users\Serap\Desktop\nesne\proje\TasarimPrensipOdev1\TasarimPrensipOdev1\bin\Debug\TasarimPrensipOdev1.exe
+C:\Users\Serap\Desktop\nesne\proje\TasarimPrensipOdev1\TasarimPrensipOdev1\bin\Debug\TasarimPrensipOdev1.pdb
+C:\Users\Serap\Desktop\nesne\proje\TasarimPrensipOdev1\TasarimPrensipOdev1\obj\Debug\TasarimPrensipOdev1.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\nesne\proje\TasarimPrensipOdev1\TasarimPrensipOdev1\obj\Debug\TasarimPrensipOdev1.Form1.resources
+C:\Users\Serap\Desktop\nesne\proje\TasarimPrensipOdev1\TasarimPrensipOdev1\obj\Debug\TasarimPrensipOdev1.Properties.Resources.resources
+C:\Users\Serap\Desktop\nesne\proje\TasarimPrensipOdev1\TasarimPrensipOdev1\obj\Debug\TasarimPrensipOdev1.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\nesne\proje\TasarimPrensipOdev1\TasarimPrensipOdev1\obj\Debug\TasarimPrensipOdev1.exe
+C:\Users\Serap\Desktop\nesne\proje\TasarimPrensipOdev1\TasarimPrensipOdev1\obj\Debug\TasarimPrensipOdev1.pdb
+C:\Users\Serap\Desktop\vs\proje\TasarimPrensipOdev1\TasarimPrensipOdev1\bin\Debug\TasarimPrensipOdev1.exe.config
+C:\Users\Serap\Desktop\vs\proje\TasarimPrensipOdev1\TasarimPrensipOdev1\obj\Debug\TasarimPrensipOdev1.exe
+C:\Users\Serap\Desktop\vs\proje\TasarimPrensipOdev1\TasarimPrensipOdev1\obj\Debug\TasarimPrensipOdev1.pdb
+C:\Users\Serap\Desktop\vs\proje\TasarimPrensipOdev1\TasarimPrensipOdev1\bin\Debug\TasarimPrensipOdev1.exe
+C:\Users\Serap\Desktop\vs\proje\TasarimPrensipOdev1\TasarimPrensipOdev1\bin\Debug\TasarimPrensipOdev1.pdb
+C:\Users\Serap\Desktop\vs\proje\TasarimPrensipOdev1\TasarimPrensipOdev1\obj\Debug\TasarimPrensipOdev1.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\vs\proje\TasarimPrensipOdev1\TasarimPrensipOdev1\obj\Debug\TasarimPrensipOdev1.Form1.resources
+C:\Users\Serap\Desktop\vs\proje\TasarimPrensipOdev1\TasarimPrensipOdev1\obj\Debug\TasarimPrensipOdev1.Properties.Resources.resources
+C:\Users\Serap\Desktop\vs\proje\TasarimPrensipOdev1\TasarimPrensipOdev1\obj\Debug\TasarimPrensipOdev1.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\Git için\TasarimPrensipOdev1\TasarimPrensipOdev1\bin\Debug\TasarimPrensipOdev1.exe.config
+C:\Users\Serap\Desktop\Git için\TasarimPrensipOdev1\TasarimPrensipOdev1\obj\Debug\TasarimPrensipOdev1.exe
+C:\Users\Serap\Desktop\Git için\TasarimPrensipOdev1\TasarimPrensipOdev1\obj\Debug\TasarimPrensipOdev1.pdb
